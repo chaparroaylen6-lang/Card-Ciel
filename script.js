@@ -30,9 +30,9 @@ const music_list = [
     },
     {
         
-        name : 'Open Arms',
+        name : 'Suffering',
         artist : 'Epic: The Musical',
-        music : 'music/open-arms.mp3'
+        music : 'music/suffering.mp3'
     },
     {
         
@@ -41,10 +41,15 @@ const music_list = [
         music : 'music/killing-me-softly.mp3'
     },
     {
+        name: 'Me gustas tanto',
+        artist: 'Miranda!',
+        music: 'music/me-gustas-tanto.mp3'
+    },
+    {
         
-        name : 'Candy Pop',
+        name : 'Fancy you',
         artist : 'TWICE',
-        music : 'music/candy-pop.mp3'
+        music : 'music/fancy-you.mp3'
     },
     {
         
@@ -59,7 +64,16 @@ const music_list = [
         music : 'music/cant-sleep-love.mp3'
     },
     {
-        img : 'https://i1.sndcdn.com/artworks-0Zq02vY8X35z-0-t500x500.jpg', // Good Kid
+        name: 'Hell in heaven',
+        artist: 'TWICE',
+        music: 'music/hell-in-heaven.mp3'
+    },
+    {
+        name: 'Noels lament',
+        artist: 'Kholby Wardell',
+        music: 'music/noels-lament.mp3'
+    },
+    {
         name : 'From The Start',
         artist : 'Good Kid (Laufey Cover)',
         music : 'music/from-the-start.mp3'
@@ -77,7 +91,16 @@ const music_list = [
         music : 'music/killin-me-good.mp3'
     },
     {
-
+        name: 'Dead girl walking',
+        artist: 'Barrett Wilbert Weed & Ryan McCartan',
+        music: 'music/dead-girl-walking.mp3'
+    },
+    {
+        name: 'The zombie song',
+        artist: 'Stephanie Mabey',
+        music: 'music/the-zombie-song.mp3'
+    },
+    {
         name : 'Teeth',
         artist : '5 Seconds of Summer',
         music : 'music/teeth.mp3'
